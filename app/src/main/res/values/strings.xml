@@ -1,0 +1,38 @@
+<resources>
+    <string name="app_name">RestaurantsExplorer</string>
+    <string name="app_logo_name">Restaurants Explorer</string>
+    <string name="find_info">Find restaurants in your city</string>
+    <string name="search_your_city">Search your city!!</string>
+    <string name="mumbai">Mumbai</string>
+    <string name="city">City :</string>
+    <string name="select_from_following_or_search_above">Select from following or search above...</string>
+    <string name="list_of_restaurants">List of Restaurants -</string>
+    <string name="list_of_restaurants_in_city">List of restaurants in Mumbai City</string>
+    <string name="dominick_pizza">Dominick Pizza</string>
+    <string name="restaurant_address">Shop 1, Main Market, Tripuri, Patiala</string>
+    <string name="restaurant_rating">4.3</string>
+    <string name="an_restaurant_feature_image">An Restaurant Feature Image</string>
+    <string name="list_of_top_rated_resttaurants_in_mumbai_city">List of Top-Rated Resttaurants in Mumbai City:-</string>
+    <string name="restaurants">Restaurants</string>
+    <string name="restaurant_rating_text">Very Good</string>
+    <string name="see_reviews">See Reviews</string>
+    <string name="see_more">See More</string>
+    <string name="address">Address:</string>
+    <string name="address_info">Shop 1, Main Market, Tripuri, Patiala</string>
+    <string name="locality">Locality :</string>
+    <string name="locality_info">Tripuri</string>
+    <string name="city_info">Patiala</string>
+    <string name="timing">Timing:</string>
+    <string name="timing_info">11:30 AM to 10:30 PM</string>
+    <string name="contact">Contact :</string>
+    <string name="contact_info">0175 2360008, 0175 5008880</string>
+    <string name="see_menu">See Menu</string>
+    <string name="top_reviews">Top Reviews</string>
+    <string name="a_person_profile_image">A person profile image</string>
+    <string name="person_name">Yash Pradhan</string>
+    <string name="average">Average</string>
+    <string name="time">3 months ago</string>
+    <string name="customer_review">Not Enough Bread - Plenty of sauce - Manara Heaven - good luck even just trying to get out of there with two pizzas - or getting home w/o eating three</string>
+    <string name="_4_1">4.1</string>
+
+</resources>

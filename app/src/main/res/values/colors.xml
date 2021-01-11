@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="purple_200">#FFBB86FC</color>
+    <color name="purple_500">#FF6200EE</color>
+    <color name="purple_700">#FF3700B3</color>
+    <color name="teal_200">#FF03DAC5</color>
+    <color name="teal_700">#FF018786</color>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="background_color">#338CF8</color>
+    <color name="logo_color">#6ef3d6</color>
+    <color name="text_color">#52616b</color>
+    <color name="back_color">#ebfffa</color>
+    <color name="restaurant_back_color">#f6f7d7</color>
+    <color name="search">#ebfffa</color>
+    <color name="grey">#020202</color>
+    <color name="card_border_colour">#9ab3f5</color>
+    <color name="card_background_color">#01a9b4</color>
+    <color name="title_color">#1C607C</color>
+</resources>
