@@ -54,7 +54,7 @@
                     android:textColor="@color/white"
                     />
                 <androidx.cardview.widget.CardView
-                    android:layout_width="wrap_content"
+                    android:layout_width="40dp"
                     android:layout_height="wrap_content"
                     android:id="@+id/rating_card"
                     app:layout_constraintRight_toRightOf="parent"
@@ -63,17 +63,15 @@
                     android:layout_marginEnd="25dp"
                     >
                     <TextView
-                        android:layout_width="wrap_content"
+                        android:layout_width="40dp"
                         android:layout_height="wrap_content"
                         android:text="@string/_4_1"
                         android:id="@+id/rating"
-                        android:layout_marginStart="5dp"
-                        android:layout_marginEnd="5dp"
                         android:textAlignment="center"
                         android:fontFamily="@font/montserrat_bold"
                         android:textStyle="bold"
                         android:textColor="@color/white"
-                        android:textSize="13sp"
+                        android:textSize="16sp"
                         />
                 </androidx.cardview.widget.CardView>
                 <TextView
